@@ -1,4 +1,4 @@
 # Install
 ```bash
-composer install http-contracts
+composer require http-contracts
 ````
