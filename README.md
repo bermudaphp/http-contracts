@@ -1,1 +1,4 @@
-# http-contracts
+# Install
+```bash
+composer install http-contracts
+````
