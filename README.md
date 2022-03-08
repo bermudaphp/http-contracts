@@ -1,4 +1,4 @@
 # Install
 ```bash
-composer require http-contracts
+composer require bermudaphp/http-contracts
 ````
